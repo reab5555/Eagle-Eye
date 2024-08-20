@@ -39,6 +39,14 @@ This framework enables developers to construct a pipeline that can collect data 
 
 <img src="diagram.png" width="1000" alt="alt text">
 
+Existing Prototype and Limitations
+We have successfully developed a prototype algorithm for facial recognition and name prediction. This prototype demonstrates the core functionality of the Eagle Eye system and is ready for use. However, it has two main limitations:
+
+Limited Database: The current prototype is restricted to a small-scale database of images. This limits the system's ability to recognize a wide range of individuals and may affect its accuracy in real-world scenarios.
+Image Quality and Variety: The prototype performs best with frontal-facing images. To improve accuracy and robustness, we need to fetch and incorporate more diverse profile images for each individual, including multiple angles and expressions.
+
+Given these limitations, the following implementation guide outlines the steps to scale up the system, expand the database, and enhance the overall performance of the Eagle Eye framework.
+
 # Complete Implementation Guide
 ## 1. Data Collection and Preparation
 
