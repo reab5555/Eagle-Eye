@@ -16,11 +16,9 @@ This project presents a comprehensive framework for building a sophisticated fac
 
 ### 2. Image Processing Pipeline:
    - Defines a series of image preprocessing steps including face detection, alignment, resizing, and quality filtering.
-   - Offers customizable modules for normalization of brightness, contrast, and other image attributes.
-
+     
 ### 3. Face Embedding Generation:
    - Incorporates deep learning models for generating face embeddings.
-   - Allows for easy integration of different embedding models to suit various accuracy and performance requirements.
 
 ### 4. Scalable Database Architecture:
    - Provides a design for creating and managing an indexed dataset of face embeddings linked to corresponding names.
