@@ -4,8 +4,8 @@
 This project presents a comprehensive framework for building a sophisticated facial recognition and name prediction pipeline. Rather than a finished product, it provides a flexible and modular architecture that developers can adapt and implement to create an advanced face recognition systems tailored to specific needs.
 
 <p align="left">
-  <img src="image_1.jpg" width="400" />
-  <img src="image_2.jpg" width="400" />
+  <img src="image_1.jpg" width="200" />
+  <img src="image_2.jpg" width="200" />
 </p>
      
 <img src="diagram.png" width="1000" alt="alt text">
