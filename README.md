@@ -8,8 +8,6 @@ This project presents a comprehensive framework for building a sophisticated fac
   <img src="image_2.jpg" width="200" />
 </p>
      
-<img src="diagram.png" width="1000" alt="alt text">
-
 ## Key components of the framework include:
 ### 1. Data Collection Module:
    - Provides tools and methodologies for creating an initial database of names, starting from a seed list of first names.
@@ -40,6 +38,8 @@ This project presents a comprehensive framework for building a sophisticated fac
    - Provides frameworks for implementing consent mechanisms and data protection measures.
 
 This framework enables developers to construct a pipeline that can collect data from social networks, process large volumes of facial images, create a searchable database of face embeddings, and predict names from new facial images. Its modular nature allows for customization at each stage, from data collection strategies to the choice of machine learning models for embedding generation and similarity matching.
+
+<img src="diagram.png" width="1000" alt="alt text">
 
 # Complete Implementation Guide
 ## 1. Data Collection and Preparation
