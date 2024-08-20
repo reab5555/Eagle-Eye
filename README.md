@@ -45,7 +45,7 @@ We have successfully developed a prototype algorithm for facial recognition and 
 ### Limited Database:
 * The current prototype is restricted to a small-scale database of images. This limits the system's ability to recognize a wide range of individuals and may affect its accuracy in real-world scenarios.
 
-* Image Quality and Variety: The prototype performs best with frontal-facing images. To improve accuracy and robustness, we need to fetch and incorporate more diverse profile images for each individual, including multiple angles and expressions.
+* Image Quality and Variety: The prototype performs best with frontal-facing images. To improve accuracy and robustness, we need to fetch and incorporate more diverse profile images for each individual, including multiple angles.
 
 Given these limitations, the following implementation guide outlines the steps to scale up the system, expand the database, and enhance the overall performance of the Eagle Eye framework.
 
