@@ -3,7 +3,7 @@
 # Eagle Eye
 This project presents a comprehensive framework for building a sophisticated facial recognition and name prediction pipeline. Rather than a finished product, it provides a flexible and modular architecture that developers can adapt and implement to create an advanced face recognition systems tailored to specific needs.
 
-<img src="diagram.png" width="500" alt="alt text">
+<img src="diagram.png" width="800" alt="alt text">
 
 ## Key components of the framework include:
 ### 1. Data Collection Module:
