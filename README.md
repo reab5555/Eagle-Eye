@@ -1,4 +1,4 @@
-<img src="icon.jpeg" width="100" alt="alt text">
+<img src="icon.jpg" width="100" alt="alt text">
 
 # Eagle Eye
 This project presents a comprehensive framework for building a sophisticated facial recognition and name prediction pipeline. Rather than a finished product, it provides a flexible and modular architecture that developers can adapt and implement to create an advanced face recognition systems tailored to specific needs.
