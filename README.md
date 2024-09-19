@@ -38,6 +38,7 @@ This project presents a comprehensive framework for building a sophisticated fac
 This framework enables developers to construct a pipeline that can collect data from social networks, process large volumes of facial images, create a searchable database of face embeddings, and predict names from new facial images. Its modular nature allows for customization at each stage, from data collection strategies to the choice of machine learning models for embedding generation and similarity matching.
 
 <img src="diagram.png" width="1000" alt="alt text">
+<img src="diagram_etl.png" width="1000" alt="alt text">
 
 ## Existing Prototype and Limitations
 We have successfully developed a prototype algorithm for facial recognition and name prediction. This prototype demonstrates the core functionality of the Eagle Eye system and is ready for use. However, it has two main limitations:
